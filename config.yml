@@ -1,0 +1,11 @@
+github_token: ""
+org_name: "MyOrg"
+exclude:
+  - https://github.com/MyOrg/py-github-nagger/pull/676
+slack:
+  icon_emoji: ":technologist:"
+  channel: "#devops"
+  username: "Hcf1-vin"
+  url: "https://hooks.slack.com/services/ouasndfiuniudnf/38BBSjnc0y2/oiandofinasoifnio"
+  pre_message: "Hello :wave:, Can you review these PRs please"
+  post_message: "Thanks"
